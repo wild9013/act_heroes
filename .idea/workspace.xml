@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b5b1158-a472-4cc0-97a3-f73d5179432a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="264">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -131,13 +132,13 @@
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/carpeta/mock-heroes.ts" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/mock-heroes.ts" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.ts" />
-        <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.html" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.css" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.html" />
         <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/hero-detail/hero-detail.component.ts" />
+        <option value="$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.html" />
       </list>
     </option>
   </component>
@@ -245,16 +246,15 @@
       <option name="presentableId" value="Default" />
       <updated>1562152068258</updated>
       <workItem from="1562152070990" duration="6625000" />
-      <workItem from="1562242170069" duration="1332000" />
+      <workItem from="1562242170069" duration="1649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7957000" />
+    <option name="totallyTimeSpent" value="8274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23660715" />
@@ -365,8 +365,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular-tour-of-heroes/src/app/heroes/heroes.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
